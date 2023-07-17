@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TikToktoe/static/css/main.ff77e2ce.css",
+    "main.js": "/TikToktoe/static/js/main.07736d46.js",
+    "static/js/787.313a1ee6.chunk.js": "/TikToktoe/static/js/787.313a1ee6.chunk.js",
+    "index.html": "/TikToktoe/index.html",
+    "main.ff77e2ce.css.map": "/TikToktoe/static/css/main.ff77e2ce.css.map",
+    "main.07736d46.js.map": "/TikToktoe/static/js/main.07736d46.js.map",
+    "787.313a1ee6.chunk.js.map": "/TikToktoe/static/js/787.313a1ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff77e2ce.css",
+    "static/js/main.07736d46.js"
+  ]
+}
